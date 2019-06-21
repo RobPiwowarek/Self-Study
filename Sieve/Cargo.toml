@@ -1,0 +1,6 @@
+[package]
+name = "Sieve"
+version = "0.1.0"
+authors = ["Robert Piwowarek <rpw@touk.pl>"]
+
+[dependencies]
