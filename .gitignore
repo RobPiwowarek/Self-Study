@@ -1,2 +1,9 @@
-/target
 **/*.rs.bk
+
+/target
+/*/target
+/*/*/target
+/*/*/*/target
+
+*.lock
+*.idea
